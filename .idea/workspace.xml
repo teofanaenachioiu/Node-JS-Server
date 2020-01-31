@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="509add62-4f2f-4bf8-b733-8f0ae5a9cfe9" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>status</find>
+      <find>cons</find>
+      <find>console</find>
+      <find>page</find>
+      <find>console.</find>
+      <find>con</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1W9ySOaKpUZSOpoJSQSudxxDaOv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.last.introduce.type" value="VAR" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ionut\WebstormProjects\my-todo-server\src\item" />
+      <recent name="C:\Users\Ionut\WebstormProjects\my-todo-server\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="509add62-4f2f-4bf8-b733-8f0ae5a9cfe9" name="Default Changelist" comment="" />
+      <created>1552035594445</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552035594445</updated>
+      <workItem from="1552035596054" duration="2883000" />
+      <workItem from="1552630751182" duration="9470000" />
+      <workItem from="1552747497147" duration="1036000" />
+      <workItem from="1552748649551" duration="32000" />
+      <workItem from="1552892134527" duration="7870000" />
+      <workItem from="1553235018218" duration="3738000" />
+      <workItem from="1553366535710" duration="504000" />
+      <workItem from="1553438957485" duration="307000" />
+      <workItem from="1553439956689" duration="641000" />
+      <workItem from="1553497335647" duration="1949000" />
+      <workItem from="1553510260267" duration="606000" />
+      <workItem from="1553679883233" duration="690000" />
+      <workItem from="1553840549942" duration="3463000" />
+      <workItem from="1553848191733" duration="1688000" />
+      <workItem from="1554120102337" duration="3069000" />
+      <workItem from="1554391478303" duration="805000" />
+      <workItem from="1554443111727" duration="4838000" />
+      <workItem from="1554703357190" duration="5588000" />
+      <workItem from="1555000693042" duration="16000" />
+      <workItem from="1555047102284" duration="7330000" />
+      <workItem from="1555307995843" duration="6956000" />
+      <workItem from="1555613675977" duration="602000" />
+      <workItem from="1555651488449" duration="1674000" />
+      <workItem from="1555655383999" duration="3926000" />
+      <workItem from="1555852407030" duration="3435000" />
+      <workItem from="1555913101152" duration="7289000" />
+      <workItem from="1556792999893" duration="4000" />
+      <workItem from="1557070370656" duration="2863000" />
+      <workItem from="1557122231394" duration="3909000" />
+      <workItem from="1578576105187" duration="2334000" />
+      <workItem from="1578583898060" duration="1454000" />
+      <workItem from="1578638580069" duration="44000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
